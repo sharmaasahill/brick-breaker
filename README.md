@@ -24,7 +24,7 @@ A simple and fun Brick Breaker game where you control a paddle with the arrow ke
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Brick Breaker-game.git
+   git clone https://github.com/sharmaasahill/brick-breaker
    ```
 2. Navigate to the project directory:
    ```sh
