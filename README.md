@@ -6,15 +6,6 @@ Check out the live demo [here](https://sharmaasahill.github.io/brick-breaker/)
 
 ![game screenshot](image.png)
 
-## Features
-
-- Draw elements on canvas
-- Use canvas paths to draw shapes
-- Move paddle on arrow key press
-- Add collision detection
-- Keep score
-- Add rules button with slider
-
 ## How to Play
 
 1. Use the left and right arrow keys to move the paddle.
